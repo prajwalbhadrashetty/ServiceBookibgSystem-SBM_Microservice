@@ -1,0 +1,16 @@
+com\cts\servicebookingmanagement\model\ListResponse.class
+com\cts\servicebookingmanagement\model\JwtResponse.class
+com\cts\servicebookingmanagement\dao\BookingDao.class
+com\cts\servicebookingmanagement\model\ResponseReport.class
+com\cts\servicebookingmanagement\feign\AuthClient.class
+com\cts\servicebookingmanagement\service\BookingService.class
+com\cts\servicebookingmanagement\controller\BookingController.class
+com\cts\servicebookingmanagement\exception\ErrorDetails.class
+com\cts\servicebookingmanagement\model\AppServiceReq.class
+com\cts\servicebookingmanagement\model\ListResponseReport.class
+com\cts\servicebookingmanagement\model\Response.class
+com\cts\servicebookingmanagement\ServiceBookingManagementApplication.class
+com\cts\servicebookingmanagement\model\AppServiceReqReport.class
+com\cts\servicebookingmanagement\exception\GlobalExceptionHandler.class
+com\cts\servicebookingmanagement\exception\InvalidTokenException.class
+com\cts\servicebookingmanagement\dao\BookingDaoReq.class
